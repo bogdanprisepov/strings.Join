@@ -1,0 +1,5 @@
+  if !found {
+   guessesLeft--
+  }
+
+  fmt.Println(strings.Join(display, " "))
